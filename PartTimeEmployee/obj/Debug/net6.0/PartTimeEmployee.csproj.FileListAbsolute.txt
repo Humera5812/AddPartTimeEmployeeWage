@@ -1,0 +1,15 @@
+C:\Users\Humera\source\repos\PartTimeEmployee\PartTimeEmployee\bin\Debug\net6.0\PartTimeEmployee.exe
+C:\Users\Humera\source\repos\PartTimeEmployee\PartTimeEmployee\bin\Debug\net6.0\PartTimeEmployee.deps.json
+C:\Users\Humera\source\repos\PartTimeEmployee\PartTimeEmployee\bin\Debug\net6.0\PartTimeEmployee.runtimeconfig.json
+C:\Users\Humera\source\repos\PartTimeEmployee\PartTimeEmployee\bin\Debug\net6.0\PartTimeEmployee.dll
+C:\Users\Humera\source\repos\PartTimeEmployee\PartTimeEmployee\bin\Debug\net6.0\PartTimeEmployee.pdb
+C:\Users\Humera\source\repos\PartTimeEmployee\PartTimeEmployee\obj\Debug\net6.0\PartTimeEmployee.csproj.AssemblyReference.cache
+C:\Users\Humera\source\repos\PartTimeEmployee\PartTimeEmployee\obj\Debug\net6.0\PartTimeEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humera\source\repos\PartTimeEmployee\PartTimeEmployee\obj\Debug\net6.0\PartTimeEmployee.AssemblyInfoInputs.cache
+C:\Users\Humera\source\repos\PartTimeEmployee\PartTimeEmployee\obj\Debug\net6.0\PartTimeEmployee.AssemblyInfo.cs
+C:\Users\Humera\source\repos\PartTimeEmployee\PartTimeEmployee\obj\Debug\net6.0\PartTimeEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Humera\source\repos\PartTimeEmployee\PartTimeEmployee\obj\Debug\net6.0\PartTimeEmployee.dll
+C:\Users\Humera\source\repos\PartTimeEmployee\PartTimeEmployee\obj\Debug\net6.0\refint\PartTimeEmployee.dll
+C:\Users\Humera\source\repos\PartTimeEmployee\PartTimeEmployee\obj\Debug\net6.0\PartTimeEmployee.pdb
+C:\Users\Humera\source\repos\PartTimeEmployee\PartTimeEmployee\obj\Debug\net6.0\PartTimeEmployee.genruntimeconfig.cache
+C:\Users\Humera\source\repos\PartTimeEmployee\PartTimeEmployee\obj\Debug\net6.0\ref\PartTimeEmployee.dll
